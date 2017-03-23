@@ -2,14 +2,17 @@ body {
   align-items: center;
   background: #000;
   display: flex;
+  perspective: 500px;
+  transform: translateY(-32px);
   justify-content: center;
 }
 
 .canvas {
   background: #000;
-  border: 1px solid #020;
   height: auto;
-  width: 92%;
+  transform: rotateX(26deg) translateY(-60px);
+  transition: transform 4s;
+  width: 100%;
 }
 
 .hidden {
