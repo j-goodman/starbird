@@ -8,7 +8,7 @@ body {
 }
 
 .canvas {
-  background: #000;
+  background: #004;
   height: auto;
   transform: rotateX(26deg) translateY(-60px);
   transition: transform 4s;
