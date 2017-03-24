@@ -3,7 +3,6 @@ body {
   background: #000;
   display: flex;
   overflow: hidden;
-  position: relative;
   perspective: 500px;
   transform: translateY(-64px);
   justify-content: center;
