@@ -2,6 +2,7 @@ body {
   align-items: center;
   background: #000;
   display: flex;
+  overflow: hidden;
   perspective: 500px;
   transform: translateY(-64px);
   justify-content: center;
